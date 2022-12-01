@@ -1,9 +1,9 @@
 warnings
 pandas
 numpy
-matplotlib.pyplot as plt
-seaborn as sns
-plotly.express as px
+matplotlib.pyplot
+seaborn
+plotly.express
 squarify
 datetime
 streamlit
