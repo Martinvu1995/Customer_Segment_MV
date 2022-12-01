@@ -1,10 +1,10 @@
 warnings
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-plotly.express
+plotly
 squarify
 datetime
 streamlit
-iplotly.express
+iplotly
