@@ -1,0 +1,10 @@
+warnings
+pandas
+numpy
+matplotlib.pyplot as plt
+seaborn as sns
+plotly.express as px
+squarify
+datetime
+streamlit
+iplotly.express
