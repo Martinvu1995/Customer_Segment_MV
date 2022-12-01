@@ -7,4 +7,3 @@ plotly
 squarify
 datetime
 streamlit
-iplotly
