@@ -12,3 +12,5 @@ Market segmentation is the process of grouping consumers based on meaningful sim
 4. your browser will appear like this: 
 
 ![Screenshot](Picture_app.png)
+
+   $$$ Enjoy it :>
