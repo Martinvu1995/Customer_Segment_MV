@@ -9,4 +9,4 @@ Market segmentation is the process of grouping consumers based on meaningful sim
 3. open the Streamlit_thuc_te.py file, run this following command on its terminal:
   -  pip install -r requirements.txt (install python libraries)
   -  streamlit run Streamlit_thuc_te.py (run web app project)
- ![Screenshot](Unsupervised Segment.png)
+![Screenshot](Unsupervised Segment.png)
